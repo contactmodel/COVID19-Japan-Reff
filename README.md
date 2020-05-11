@@ -8,11 +8,11 @@ Data used for simulations is available in the **data**-folder. The simulations w
 ## Scripts 
 
 **Representing the data** 
-* [A. Showing the epidemic curve.ipynb]()
+* [A. Showing the epidemic curve.ipynb](https://nbviewer.jupyter.org/github/contactmodel/COVID19-Japan-Reff/blob/master/scripts/A.%20Showing%20the%20epidemic%20curve.ipynb)
  
 **Main analysis**
-* [B. Calculating Rt using Maximum likelihood estimation.ipynb]()
-* [C. Calculating the Rt in Stan.ipynb]()
+* [B. Calculating Rt using Maximum likelihood estimation.ipynb](https://nbviewer.jupyter.org/github/contactmodel/COVID19-Japan-Reff/blob/master/scripts/B.%20Calculating%20Rt%20using%20Maximum%20likelihood%20estimation.ipynb)
+* [C. Calculating the Rt in Stan.ipynb](https://nbviewer.jupyter.org/github/contactmodel/COVID19-Japan-Reff/blob/master/scripts/C.%20Calculating%20the%20Rt%20in%20Stan.ipynb)
 
 ------
 **Thank you for your interest to our work.**

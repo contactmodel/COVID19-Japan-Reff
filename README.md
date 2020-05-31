@@ -5,6 +5,8 @@ Sung-mok Jung, Andrei R. Akhmetzhanov, Kenji Mizumoto, Hiroshi Nishiura
 
 Data used for simulations is available in the **data**-folder. The simulations were done using R (version 4.0). The results can be found in the **results**-folder.
 
+**The links are not working at the moment, because there is a bug in nbviewer - they will be corrected a bit later**
+
 ## Scripts
 
 **Representing the data**

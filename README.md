@@ -11,7 +11,7 @@ Data used for simulations is available in the **data**-folder. The simulations w
 * [A. Showing the epidemic curve.ipynb](https://nbviewer.jupyter.org/github/contactmodel/COVID19-Japan-Reff/blob/master/scripts/A.%20Showing%20the%20epidemic%20curve.ipynb?flush_cache=true)
 
 **Main analysis**
-* [B. Calculation of Rt using Maximum likelihood estimation.ipynb](https://nbviewer.jupyter.org/gist/aakhmetz/96b0ba842c4e98f763ee5225035d838a)
+* [B. Calculation of Rt using Maximum likelihood estimation.ipynb](https://nbviewer.jupyter.org/gist/aakhmetz/6f04f885d9add7b042e4ba2a84bebfdf)
 * [C. Calculating the Rt in Stan.ipynb](https://nbviewer.jupyter.org/gist/aakhmetz/afba8383f69766e3f53ad7e1fbc89617)
 
 ------
